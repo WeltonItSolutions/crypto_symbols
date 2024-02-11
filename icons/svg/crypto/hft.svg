@@ -1,0 +1,12 @@
+<svg fill="none" height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <clipPath id="hft__a">
+            <path d="M0 0h32v32H0z" fill="#fff" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#hft__a)">
+        <circle cx="16" cy="16" fill="#171A1F" r="16" />
+        <path d="M25.333 15.3v-2.336h-2.397v-3.63h-2.702v3.633h-8.468V9.333H9.064v3.634H6.667v2.335h2.397v1.204H6.667v2.335h2.397v3.631h2.702v-3.634h8.468v3.634h2.702v-3.634h2.397v-2.335h-2.397V15.3h2.397Zm-5.099 1.203h-8.468V15.3h8.468v1.204Z"
+            fill="#fff" />
+    </g>
+</svg>
